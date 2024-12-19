@@ -1,3 +1,4 @@
+#Машины пингуются
 ![](https://i.imgur.com/z6HQTPs.png)
 ![](![](https://i.imgur.com/BzcLy3b.png)
 ![](https://i.imgur.com/QHISK0x.png)
