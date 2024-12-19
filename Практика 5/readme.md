@@ -12,5 +12,6 @@
 ![](https://i.imgur.com/QJlQUl4.png)
 Логи собираются
 ![](https://i.imgur.com/2G7BZXB.png)
+![](https://i.imgur.com/0jofroS.png)
 
 
